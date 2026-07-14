@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-coffee-dark: #3b2417;
+  --color-coffee-light: #f5ede4;
+}

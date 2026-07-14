@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Cappuccino",
+    "category": "Hot",
+    "price": 4.5,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d",
+    "description": "Rich espresso topped with velvety steamed milk foam.",
+    "ingredients": ["Espresso", "Steamed Milk", "Foam"]
+  },
+  {
+    "id": 2,
+    "name": "Iced Latte",
+    "category": "Cold",
+    "price": 5.0,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735",
+    "description": "Smooth espresso over ice with cold milk.",
+    "ingredients": ["Espresso", "Cold Milk", "Ice"]
+  },
+  {
+    "id": 3,
+    "name": "Chocolate Muffin",
+    "category": "Desserts",
+    "price": 3.5,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa",
+    "description": "Warm, gooey chocolate chunk muffin.",
+    "ingredients": ["Flour", "Cocoa", "Chocolate Chips"]
+  },
+  {
+    "id": 4,
+    "name": "Green Tea",
+    "category": "Tea",
+    "price": 3.0,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5",
+    "description": "Light, antioxidant-rich green tea.",
+    "ingredients": ["Green Tea Leaves", "Hot Water"]
+  }
+]
